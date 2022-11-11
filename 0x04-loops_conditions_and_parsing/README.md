@@ -1,1 +1,3 @@
-0x04-loops_conditions_and_parsing README
+# 0x04. Loops, conditions and parsing
+
+## Author: Afolabi John Oluwaseun
